@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cfdynihss4w6e"
-path="res://.godot/imported/lava1-Sheet_big.png-80562df9730e818c35950423e978f424.ctex"
+uid="uid://d0q52p7h6flk2"
+path="res://.godot/imported/Knight_Idle.png-7a173196efac782782fa98a649455d8a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Tiles/Hazards/Big/lava1-Sheet_big.png"
-dest_files=["res://.godot/imported/lava1-Sheet_big.png-80562df9730e818c35950423e978f424.ctex"]
+source_file="res://Assets/Sprites/Characters/Playable/Knight/Knight_Idle.png"
+dest_files=["res://.godot/imported/Knight_Idle.png-7a173196efac782782fa98a649455d8a.ctex"]
 
 [params]
 
