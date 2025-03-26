@@ -1,0 +1,4 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+Assets/Sprites/Tiles/Hazards/Big/lava1-Sheet_big.png.import
